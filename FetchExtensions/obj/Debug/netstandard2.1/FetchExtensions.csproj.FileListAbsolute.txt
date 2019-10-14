@@ -1,0 +1,7 @@
+C:\Users\mikhail.teslya\source\repos\EfExtensions\FetchExtensions\bin\Debug\netstandard2.1\FetchExtensions.deps.json
+C:\Users\mikhail.teslya\source\repos\EfExtensions\FetchExtensions\bin\Debug\netstandard2.1\FetchExtensions.dll
+C:\Users\mikhail.teslya\source\repos\EfExtensions\FetchExtensions\bin\Debug\netstandard2.1\FetchExtensions.pdb
+C:\Users\mikhail.teslya\source\repos\EfExtensions\FetchExtensions\obj\Debug\netstandard2.1\FetchExtensions.AssemblyInfoInputs.cache
+C:\Users\mikhail.teslya\source\repos\EfExtensions\FetchExtensions\obj\Debug\netstandard2.1\FetchExtensions.AssemblyInfo.cs
+C:\Users\mikhail.teslya\source\repos\EfExtensions\FetchExtensions\obj\Debug\netstandard2.1\FetchExtensions.dll
+C:\Users\mikhail.teslya\source\repos\EfExtensions\FetchExtensions\obj\Debug\netstandard2.1\FetchExtensions.pdb
