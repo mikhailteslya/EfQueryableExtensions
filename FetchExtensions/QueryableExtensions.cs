@@ -1,8 +1,6 @@
 ﻿using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
-using Microsoft.EntityFrameworkCore.Query.Internal;
-using System.Diagnostics.CodeAnalysis;
 
 namespace FetchExtensions
 {
@@ -13,7 +11,7 @@ namespace FetchExtensions
                 .GetTypeInfo().GetDeclaredMethod(nameof(FetchByQuery));
 
         public static IQueryable<TEntity> FetchByQuery<TEntity, TQuery>(
-            [NotNull] this IQueryable<TEntity> source, TQuery query) where TEntity : class where TQuery : Query
+             this IQueryable<TEntity> source, TQuery query) where TEntity : class where TQuery : Query
         {
             return source.Provider.CreateQuery<TEntity>(
                         Expression.Call(
